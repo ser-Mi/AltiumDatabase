@@ -1,0 +1,5 @@
+*.laccdb
+*.REP
+
+#忽略所有History目录
+History/
